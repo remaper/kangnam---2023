@@ -1,2 +1,1 @@
-# kangnam---2023
-kangnam - 2023
+# 강남대 K-Move 2023 HTML 강의자료
